@@ -1,0 +1,17 @@
+body {
+  background: rgb(248, 248, 159);
+}
+
+h1 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+.photo {
+  display: block;
+  margin: 60px auto;
+  max-width: 50px;
+}
